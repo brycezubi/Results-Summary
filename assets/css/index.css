@@ -206,5 +206,7 @@ body{
     align-self: center;
   }
   .cta{
-    margin:0
+    margin:0;
+    padding:2rem 3.5rem;
+    font-size:1.75rem;
 }
