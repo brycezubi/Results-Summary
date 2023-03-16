@@ -210,7 +210,9 @@ body{
     padding-inline:1rem;
   }
   .cta{
-    margin:0;
+    margin-bottom:0;
+    margin-top:2rem;
     padding:1.9rem 3rem;
     font-size:1.65rem;
+    
 }
