@@ -188,6 +188,7 @@ body{
   color: var(--White);
   border-radius: 2.5rem;
   cursor: pointer;
+  margin-bottom:2rem;
 }
 
 @media (min-width:860px){
@@ -204,4 +205,6 @@ body{
   .summary__stats{
     align-self: center;
   }
+  .cta{
+    margin:0
 }
